@@ -5,9 +5,9 @@ export const GithubSecao = styled.div`
   margin-bottom: 64px;
 
   img {
-    height: 157px;
+    height: 158px;
 
-    @media (max-width: 768px) {
+    @media (max-width: 769px) {
       height: auto;
       width: 100%;
     }
